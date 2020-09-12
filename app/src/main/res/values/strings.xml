@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">taobaoUnion</string>
+    <string name="home">首页</string>
+    <string name="selected">精选</string>
+    <string name="red_packet">红包</string>
+    <string name="search">搜索</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
